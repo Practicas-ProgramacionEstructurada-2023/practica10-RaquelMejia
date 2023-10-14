@@ -1,0 +1,14 @@
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\obj\Debug\net7.0\practica10-RaquelMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\obj\Debug\net7.0\practica10-RaquelMejia.AssemblyInfoInputs.cache
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\obj\Debug\net7.0\practica10-RaquelMejia.AssemblyInfo.cs
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\obj\Debug\net7.0\practica10-RaquelMejia.csproj.CoreCompileInputs.cache
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\bin\Debug\net7.0\practica10-RaquelMejia.exe
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\bin\Debug\net7.0\practica10-RaquelMejia.deps.json
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\bin\Debug\net7.0\practica10-RaquelMejia.runtimeconfig.json
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\bin\Debug\net7.0\practica10-RaquelMejia.dll
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\bin\Debug\net7.0\practica10-RaquelMejia.pdb
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\obj\Debug\net7.0\practica10-RaquelMejia.dll
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\obj\Debug\net7.0\refint\practica10-RaquelMejia.dll
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\obj\Debug\net7.0\practica10-RaquelMejia.pdb
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\obj\Debug\net7.0\practica10-RaquelMejia.genruntimeconfig.cache
+C:\Users\consu\OneDrive\Documentos\PRACTICA10.PROGRAMACION\practica10-RaquelMejia\obj\Debug\net7.0\ref\practica10-RaquelMejia.dll
